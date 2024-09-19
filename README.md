@@ -1,4 +1,4 @@
-** bem vindo ao meu peril **
+**bem vindo ao meu peril**
 Meu nome e paulo henrique xavier
 
 sou aluno do camponente curricular de pensamento computacional pela rede estdual de aducação Paraná
